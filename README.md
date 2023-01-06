@@ -8,7 +8,7 @@ A demo of Intersystems IRIS with CloudStudio (developer by Sean Connelly)
 
 then navigate to:
 
-https://52773-\<gitpod server address\>/cloudstudio/CloudStudio.Index.cls  
+https://52773-<gitpod server address\>/cloudstudio/CloudStudio.Index.cls  
 where  
 \<gitpod server address\> = ramsailopal-intersystem-xxxxxxxxxxx.ws-us81.gitpod.io  
 
