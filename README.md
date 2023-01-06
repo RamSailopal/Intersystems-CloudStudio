@@ -12,7 +12,7 @@ A demo of Intersystems IRIS with CloudStudio
 
 then navigate to:
 
-http://<machine running docker>:52773/cloudstudio/CloudStudio.Index.cls
+http://\<machine running docker\>:52773/cloudstudio/CloudStudio.Index.cls
 
 Change the password on request from:
 
