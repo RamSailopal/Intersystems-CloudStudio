@@ -14,6 +14,12 @@ then navigate to:
 
 http://<machine running docker>:52773/cloudstudio/CloudStudio.Index.cls
 
+Change the password on request from:
+
+Username: **_SYSTEM** 
+
+Password: **SYS**
+
 # References
 
 https://github.com/SeanConnelly/CloudStudio
