@@ -4,7 +4,7 @@ A demo of Intersystems IRIS with CloudStudio
 
 # Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/fmql-patients-admin) for free (simply create an account)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio) for free (simply create an account)
 
 # Local
 
