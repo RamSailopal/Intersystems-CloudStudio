@@ -6,6 +6,16 @@ A demo of Intersystems IRIS with CloudStudio (developer by Sean Connelly)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RamSailopal/Intersystems-CloudStudio) for free (simply create an account)
 
+then navigate to:
+
+https://52773-<gitpod server address>/cloudstudio/CloudStudio.Index.cls
+
+Change the password on request from:
+
+Username: _SYSTEM
+
+Password: SYS
+
 # Local
 
     docker run --name my-iris -p 52773:52773 -d ramb0/cloudstudio --check-caps false
