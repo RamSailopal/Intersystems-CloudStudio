@@ -1,6 +1,6 @@
 # Intersystems-CloudStudio
 
-A demo of Intersystems IRIS with CloudStudio (developer by Sean Connelly)
+A demo of Intersystems IRIS with CloudStudio (developed by Sean Connelly)
 
 # Gitpod
 
