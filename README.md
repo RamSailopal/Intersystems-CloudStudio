@@ -17,9 +17,8 @@ Username: **_SYSTEM**
 Password: **SYS**  
 
 # Local
-``text
- docker run --name my-iris -p 52773:52773 -d ramb0/cloudstudio --check-caps false
-``   
+
+     docker run --name my-iris -p 52773:52773 -d ramb0/cloudstudio --check-caps false
 then navigate to:  
 http://localhost:52773/cloudstudio/CloudStudio.Index.cls
 
